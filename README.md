@@ -1,4 +1,4 @@
-<h1>Hi, I'm Crystal! <br/><a href="https://github.com/Msmetamorphosis">Programmer</a>, <a href="https://www.linkedin.com/in/crystal-molnar-8a9b245b/">Applied AI Developer</a>, Digital Asset Manager</a></h1>
+<h1>Hi, I'm Crystal! <br/><a href="https://github.com/Msmetamorphosis">Business & Technology Consultant</a>, <a href="https://www.linkedin.com/in/crystal-molnar-8a9b245b/">Applied AI Developer</a>, Digital Asset Manager</a></h1>
 
 <h2>🙋🏼‍♀️Get To Know Me</h2>
 <b>My bio</b>
