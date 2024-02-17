@@ -35,6 +35,8 @@
 
 - <b>Data Analysis & Visualization</b>
 
+    - [Jupyter Notebooks](https://github.com/Msmetamorphosis/my_nbooks)
+
 - <b>Storytelling with Data</b>
 
 - <b>Collaboration and Communication
