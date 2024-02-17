@@ -13,10 +13,16 @@
 
 - <b>AI Training Data</b>
 
+  - [SQL Training Data for LLM](https://github.com/Msmetamorphosis/AI-Training-Data/blob/main/SQL%20training%20data.jsonl) 
+
 - <b>Custom Datasets</b>
 
+  - [Datasets for LLMs](https://github.com/Msmetamorphosis/Datasets-for-LLMs)
+
 - <b>Python Prompts & Unit Tests for Model Training</b>
- 
+
+   - [Python Prompts & Unit Tests for Model Training](https://github.com/Msmetamorphosis/Python-Prompts-and-Unit-Tests-for-Model-Training)
+     
 <h2>Blockchain</h2>
 
 - <b>🕵️‍♀️Analysis of Protocols📑</b>
