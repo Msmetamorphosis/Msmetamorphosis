@@ -31,6 +31,9 @@
 
 - <b>📈Portfolios💰</b>
 
+- <b>🤖My Crypto Trading Bot📊</b>
+
+
 <h2>Data Science</h2>
 
 - <b>Data Analysis & Visualization</b>
