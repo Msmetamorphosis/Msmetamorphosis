@@ -15,6 +15,12 @@
 
 - <b>Fine Tuning GPT 3.5 Turbo</b>
 
+- <b>Persona Modeling for Custom Use Cases</b>
+
+- <b>Custom Instructions for ChatGPT</b>
+
+-<b>Curating ChatGPT's "Memory"</b>
+
 - <b>Custom GPTs</b>
 
 - <b>AI Training Data</b>
