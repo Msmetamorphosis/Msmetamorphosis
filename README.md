@@ -19,7 +19,7 @@
 
 - <b>Custom Instructions for ChatGPT</b>
 
--<b>Curating ChatGPT's "Memory"</b>
+- <b>Curating ChatGPT's "Memory"</b>
 
 - <b>Custom GPTs</b>
 
