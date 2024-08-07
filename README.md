@@ -23,6 +23,8 @@
 
 - <b>Custom GPTs</b>
 
+ -[CustomGPTs I Created](https://github.com/Msmetamorphosis/CustomGPTs)
+
 - <b>AI Training Data</b>
 
   - [SQL Training Data for LLM](https://github.com/Msmetamorphosis/AI-Training-Data/blob/main/SQL%20training%20data.jsonl) 
