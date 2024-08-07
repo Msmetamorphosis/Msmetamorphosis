@@ -23,7 +23,7 @@
 
 - <b>Custom GPTs</b>
 
- -[CustomGPTs I Created](https://github.com/Msmetamorphosis/CustomGPTs)
+ - [CustomGPTs I Created](https://github.com/Msmetamorphosis/CustomGPTs)
 
 - <b>AI Training Data</b>
 
