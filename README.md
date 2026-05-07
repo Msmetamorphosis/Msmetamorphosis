@@ -11,7 +11,7 @@ Former military brat. Serial entrepreneur with 20+ years building businesses acr
 
 **ALETHEIA Protocol** -- A two-layer discretionary mutual protection protocol for the agentic economy. Built at the EasyA x CoinDesk Consensus Miami Hackathon 2026. Layer 1 is an Agent Risk Registry: developers register AI agents on-chain, declare financial boundaries and system prompt hashes, and receive a Claude-evaluated composite risk score across eight dimensions. Layer 2 is a Mutual Protection Pool: registered agents are coverable, members pay risk-adjusted USDC contributions via x402 on Base, and spend cap breaches are verified mathematically from on-chain data -- no user testimony required. Claude on Amazon Bedrock arbitrates claims. The pool pays automatically.
 
-Live at [aletheiaprotocol.vercel.app] | Stress test: [aletheiaprotocol.pplx.app](https://aletheiaprotocol.pplx.app) | Repo: [github.com/Msmetamorphosis/aletheia-protocol](https://github.com/Msmetamorphosis/aletheia-protocol)
+Live at [https://aletheiaprotocol.io/] | Repo: [github.com/Msmetamorphosis/aletheia-protocol](https://github.com/Msmetamorphosis/aletheia-protocol)
 
 **CHRYSALIS** -- An epistemic governance framework for agentic AI. Rather than letting agents self-govern, CHRYSALIS validates agent beliefs before action through external accountability. Core modules include MEMOIR (belief classification and on-chain attestation to Solana), ORACLE (metacognitive feedback loop), MIRROR (real-time cognitive state monitoring), COMPASS (regulatory compliance reporting), SHIELD (adversarial belief injection detection), and EIS (agent reputation scoring).
 
