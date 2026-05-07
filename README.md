@@ -9,15 +9,25 @@ Former military brat. Serial entrepreneur with 20+ years building businesses acr
 
 ## What I Build
 
+**ALETHEIA Protocol** -- A two-layer discretionary mutual protection protocol for the agentic economy. Built at the EasyA x CoinDesk Consensus Miami Hackathon 2026. Layer 1 is an Agent Risk Registry: developers register AI agents on-chain, declare financial boundaries and system prompt hashes, and receive a Claude-evaluated composite risk score across eight dimensions. Layer 2 is a Mutual Protection Pool: registered agents are coverable, members pay risk-adjusted USDC contributions via x402 on Base, and spend cap breaches are verified mathematically from on-chain data -- no user testimony required. Claude on Amazon Bedrock arbitrates claims. The pool pays automatically.
+
+Live at [aletheiaprotocol.vercel.app] | Stress test: [aletheiaprotocol.pplx.app](https://aletheiaprotocol.pplx.app) | Repo: [github.com/Msmetamorphosis/aletheia-protocol](https://github.com/Msmetamorphosis/aletheia-protocol)
+
 **CHRYSALIS** -- An epistemic governance framework for agentic AI. Rather than letting agents self-govern, CHRYSALIS validates agent beliefs before action through external accountability. Core modules include MEMOIR (belief classification and on-chain attestation to Solana), ORACLE (metacognitive feedback loop), MIRROR (real-time cognitive state monitoring), COMPASS (regulatory compliance reporting), SHIELD (adversarial belief injection detection), and EIS (agent reputation scoring).
+
 Live at [chrysalisai.io](https://chrysalisai.io) | Dashboard at [chrysalis-omega.vercel.app](https://chrysalis-omega.vercel.app)
 
 **CRAFT** -- Contextual Rewriting and Fidelity Tester. A prompt coaching tool with a three-stage reliability pipeline (generate, critique, validate/repair) and a custom Output Variance Score (OVS) metric. Achieved 100% schema compliance across prompt styles in research testing.
+
 Live at [msmetamorphosis.github.io/CRAFT](https://msmetamorphosis.github.io/CRAFT)
 
 **VetNavi** -- A RAG-based platform designed to support veteran career transitions. Built as my MSAI capstone.
 
 **Production AI Systems** -- Dual-agent systems for legal practice, financial automation agents, and client-facing AI solutions built under NDA.
+
+## Hackathon
+
+**EasyA x CoinDesk Consensus Miami 2026** -- Built ALETHEIA Protocol as a solo technical founder with financial modeling by Esteban (Protocol Financial Strategist). ALETHEIA is a discretionary mutual protection protocol covering cryptographically verifiable AI agent financial failures on Base Sepolia. Features agent identity registry, Claude risk scoring, x402 USDC contributions, and mathematical breach verification. Q3 2026 roadmap includes integration with CHRYSALIS belief governance on Solana for 50% contribution reduction on governed agents.
 
 ## Published and Submitted Research
 
@@ -37,6 +47,7 @@ I build technology that serves people who have historically been underserved by 
 - **Research Advisor:** Dr. Martin Brown, Kennesaw State University
 
 Make it a great day.
-Make it a great day.
+
+
 
 
