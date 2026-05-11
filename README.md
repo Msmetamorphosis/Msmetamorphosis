@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Crystal Tubbs</h1>
 <h3 align="center">AI Systems Researcher & Builder | MSAI Candidate | AI x Blockchain Strategist | Founder, Metamorphic Curations</h3>
-# About
+## About
 
 I build AI systems that make accountability and equity more than buzzwords. My work sits at the intersection of applied AI research, governance, and real-world deployment, driven by the belief that technology should contribute to a more equitable world, not widen existing gaps.
 
@@ -107,6 +107,7 @@ This means varied user prompt behavior does not have to result in production fai
 - **Data:** 15 extraction samples, 25 QA pairs with ground truth, and 20 VA benefits passages for retrieval
 
 **Repo:** https://github.com/Msmetamorphosis/llm-reliability-dashboard
+**Live:** https://msmetamorphosis.github.io/llm-reliability-dashboard
 
 ---
 
@@ -170,6 +171,7 @@ The platform focuses on reducing systemic friction by helping veterans:
 
 VetNavi was designed with an emphasis on accessibility, equity, and practical real-world usability for underserved communities often overlooked by traditional hiring systems.
 
+**Live:** https://vetnavi.ai
 ---
 
 # Production AI Systems
@@ -254,44 +256,43 @@ Built automated trading agents and multi-platform digital asset intelligence sys
 
 ---
 
-# Published and Submitted Research
+# Research
 
-## Published
-
-### CIPHER
+### CIPHER Covert Influence Passed via Hidden Encoding in Representations : Evaluating Subliminal Bias Transfer During Knowledge Distillation
 Covert bias transfer via knowledge distillation. Introduced the concept of **Metric Illusion**.
+http://digitalcommons.kennesaw.edu/cday/Fall_2025/Masters_Research/16
+https://digitalcommons.kennesaw.edu/cgi/viewcontent.cgi?article=1647&context=cday
 
-Published via DigitalCommons@KSU.
+### PRISM Proxy Recognition and Inclusion Scoring Method
+Published in Symposium of Student Sccholars @ KSU Commons, Presented at KSU CCSE Computing Showcase, Fall 2025 (Graduate Research)
 
-### PRISM
 Research on context-dependent bias in LLM resume screening.
+http://digitalcommons.kennesaw.edu/undergradsymposiumksu/fall2025/fall2025/28
+https://digitalcommons.kennesaw.edu/cgi/viewcontent.cgi?article=4639&context=undergradsymposiumksu
 
-Published via DigitalCommons@KSU.
-
----
-
-## Submitted
 
 ### SAF
-Surrogate Accountability Framework for agentic AI governance.
+Surrogate Accountability Framework for agentic AI governance. **2nd place Graduate Capstone winner at KSU CCSE Computing Showcase Spring 2026.**
+https://digitalcommons.kennesaw.edu/cgi/viewcontent.cgi?article=1731&context=cday
+https://digitalcommons.kennesaw.edu/cday/Spring_2026/Graduate_Project/12/
 
-Submitted to ASI26.
 
-### UIBF
-Unintended Inference Bias Framework.
+### Mitigating Prompt-Induced Variability in LLM Outputs
 
-Submitted to ASI26.
+https://digitalcommons.kennesaw.edu/cday/Spring_2026/Masters_Research/17/
+https://digitalcommons.kennesaw.edu/cgi/viewcontent.cgi?article=1752&context=cday
 
-### Architectural Stabilization
-Research on stabilizing AI system architectures.
+### From Leakage to Reliability in Dementia Detection
 
+https://digitalcommons.kennesaw.edu/cday/Spring_2026/Masters_Research/18/
+https://digitalcommons.kennesaw.edu/cgi/viewcontent.cgi?article=1753&context=cday
 ---
 
 # Hackathon
 
 ## EasyA x CoinDesk Consensus Miami 2026
 
-Built ALETHEIA Protocol as a solo technical founder with financial modeling by Esteban (Protocol Financial Strategist).
+Built ALETHEIA Protocol as a solo technical founder with financial modeling by Esteban Cerda Le - Bert (Protocol Financial Strategist).
 
 ALETHEIA is a discretionary mutual protection protocol covering cryptographically verifiable AI agent financial failures on Base Sepolia.
 
@@ -324,56 +325,6 @@ Every framework, system, and line of research I produce is measured against a si
 # Connect
 
 **Consultancy:** Metamorphic Curations LLC  
-**Research Advisor:** Dr. Martin Brown, Kennesaw State University
+https://www.metamorphiccurations.com/
 
 Make it a great day.
-I build AI systems that make accountability and equity more than buzzwords. My work sits at the intersection of applied AI research, governance, and real-world deployment, driven by the belief that technology should contribute to a more equitable world, not widen existing gaps.
-
-## Background
-
-Former military brat. Serial entrepreneur with 20+ years building businesses across e-commerce and service industries. I entered AI in my late 30s, earned a 4.0 GPA in my MSAI program at Kennesaw State University (graduating July 2026), and built a research portfolio that bridges theory and practice. My path has never been conventional, and that is the point. Perspective earned through lived experience shapes everything I build.
-
-## What I Build
-
-**ALETHEIA Protocol** -- A two-layer discretionary mutual protection protocol for the agentic economy. Built at the EasyA x CoinDesk Consensus Miami Hackathon 2026. Layer 1 is an Agent Risk Registry: developers register AI agents on-chain, declare financial boundaries and system prompt hashes, and receive a Claude-evaluated composite risk score across eight dimensions. Layer 2 is a Mutual Protection Pool: registered agents are coverable, members pay risk-adjusted USDC contributions via x402 on Base, and spend cap breaches are verified mathematically from on-chain data -- no user testimony required. Claude on Amazon Bedrock arbitrates claims. The pool pays automatically.
-
-Live at [https://aletheiaprotocol.io/] | Repo: [github.com/Msmetamorphosis/aletheia-protocol](https://github.com/Msmetamorphosis/aletheia-protocol)
-
-**CHRYSALIS** -- An epistemic governance framework for agentic AI. Rather than letting agents self-govern, CHRYSALIS validates agent beliefs before action through external accountability. Core modules include MEMOIR (belief classification and on-chain attestation to Solana), ORACLE (metacognitive feedback loop), MIRROR (real-time cognitive state monitoring), COMPASS (regulatory compliance reporting), SHIELD (adversarial belief injection detection), and EIS (agent reputation scoring).
-
-Live at [chrysalisai.io](https://chrysalisai.io) | Dashboard at [chrysalis-omega.vercel.app](https://chrysalis-omega.vercel.app)
-
-**CRAFT** -- Contextual Rewriting and Fidelity Tester. A prompt coaching tool with a three-stage reliability pipeline (generate, critique, validate/repair) and a custom Output Variance Score (OVS) metric. Achieved 100% schema compliance across prompt styles in research testing.
-
-Live at [msmetamorphosis.github.io/CRAFT](https://msmetamorphosis.github.io/CRAFT)
-
-**VetNavi** -- A RAG-based platform designed to support veteran career transitions. Built as my MSAI capstone.
-
-**Production AI Systems** -- Dual-agent systems for legal practice, financial automation agents, and client-facing AI solutions built under NDA.
-
-## Hackathon
-
-**EasyA x CoinDesk Consensus Miami 2026** -- Built ALETHEIA Protocol as a solo technical founder with financial modeling by Esteban (Protocol Financial Strategist). ALETHEIA is a discretionary mutual protection protocol covering cryptographically verifiable AI agent financial failures on Base Sepolia. Features agent identity registry, Claude risk scoring, x402 USDC contributions, and mathematical breach verification. Q3 2026 roadmap includes integration with CHRYSALIS belief governance on Solana for 50% contribution reduction on governed agents.
-
-## Published and Submitted Research
-
-- **CIPHER** -- Covert bias transfer via knowledge distillation; introduced the concept of "Metric Illusion" (Published, DigitalCommons@KSU)
-- **PRISM** -- Context-dependent bias in LLM resume screening (Published, DigitalCommons@KSU)
-- **SAF** -- Surrogate Accountability Framework for agentic AI governance (Submitted, ASI26)
-- **UIBF** -- Unintended Inference Bias Framework (Submitted, ASI26)
-- **Architectural Stabilization** -- Research on stabilizing AI system architectures
-
-## Philosophy
-
-I build technology that serves people who have historically been underserved by it. Equity in AI is not a feature request. It is a design requirement. Every framework, every system, every line of research I produce is measured against a simple question: does this move us closer to a world where powerful technology works for everyone?
-
-## Connect
-
-- **Consultancy:** [Metamorphic Curations LLC](https://metamorphiccurations.com)
-- **Research Advisor:** Dr. Martin Brown, Kennesaw State University
-
-Make it a great day.
-
-
-
-
