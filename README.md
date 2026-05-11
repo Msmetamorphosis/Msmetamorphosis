@@ -1,5 +1,6 @@
 <h1 align="center">👋 Hi, I'm Crystal Tubbs</h1>
 <h3 align="center">AI Systems Researcher & Builder | MSAI Candidate | AI x Blockchain Strategist | Founder, Metamorphic Curations</h3>
+
 ## About
 
 I build AI systems that make accountability and equity more than buzzwords. My work sits at the intersection of applied AI research, governance, and real-world deployment, driven by the belief that technology should contribute to a more equitable world, not widen existing gaps.
